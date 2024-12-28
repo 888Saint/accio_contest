@@ -11,9 +11,9 @@ body {
     align-items: center;
 }
 #container {
-    width: 60%;  /* Adjusted for a wider appearance */
-    max-width: 800px;  /* Ensures it doesn't get too wide on larger screens */
-    padding: 40px;  /* Increased padding for better spacing */
+    width: 60%;  
+    max-width: 800px; 
+    padding: 40px; 
     background-color: #222;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.5);
@@ -21,7 +21,7 @@ body {
 button {
     margin: 10px;
     padding: 10px 20px;
-    font-size: 18px;  /* Larger font size for better readability */
+    font-size: 18px;
     background-color: #555;
     color: white;
     border: none;
